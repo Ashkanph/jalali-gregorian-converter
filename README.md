@@ -1,5 +1,5 @@
 
-A series of ffunction for converting unix time to Jalali date-time and converting Jalali date-time to Gregorian and vice versa.
+A series of functions for converting unix time to Jalali date-time and converting Jalali date-time to Gregorian and vice versa.
 
 ## Test
 
