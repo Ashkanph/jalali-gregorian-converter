@@ -1,0 +1,24 @@
+{
+  "name": "jalaligregorianconverter",
+  "version": "1.0.0",
+  "description": "A series of functions for converting unix time to Jalali/Gregorian date-time and converting Jalali date-time to Gregorian and vice versa.",
+  "main": "jalali.js",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "jest": "^24.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Gregorian",
+    "Jalali",
+    "Shamsi",
+    "Khorshidi",
+    "Calendar",
+    "Converter"
+  ],
+  "author": "Ashkan",
+  "license": "MIT"
+}
